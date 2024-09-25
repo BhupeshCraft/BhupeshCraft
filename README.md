@@ -37,6 +37,12 @@
 
 <br>
 
+## Cloud Stack :
+<p align="left"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" title="azure width="40" height="40"/>
+
+<br>
+<br>
+
 ## 💻 Tech Stack :
 <p align="left"> 
 <p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>
